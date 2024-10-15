@@ -27,7 +27,7 @@ export default function Selling() {
               <a className="block relative rounded overflow-hidden">
                 <Image
                   alt="ecommerce"
-                  className="object-cover object-center w-[430px] h-[400px] mx-auto"
+                  className="object-cover cursor-pointer object-center w-[430px] h-[400px] mx-auto  transition-transform duration-500 ease-in-out transform hover:scale-110"
                   src={image1}
                 />
               </a>
@@ -44,7 +44,7 @@ export default function Selling() {
               <a className="block relative rounded overflow-hidden">
                 <Image
                   alt="ecommerce"
-                  className="object-cover object-center w-[430px] h-[400px] mx-auto"
+                  className="object-cover cursor-pointer object-center w-[430px] h-[400px] mx-auto  transition-transform duration-500 ease-in-out transform hover:scale-110"
                   src={image2}
                 />
               </a>
@@ -61,7 +61,7 @@ export default function Selling() {
               <a className="block relative rounded overflow-hidden">
                 <Image
                   alt="ecommerce"
-                  className="object-cover object-center w-[430px] h-[400px] mx-auto"
+                  className="object-cover cursor-pointer object-center w-[430px] h-[400px] mx-auto  transition-transform duration-500 ease-in-out transform hover:scale-110"
                   src={image3}
                 />
               </a>
